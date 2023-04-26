@@ -1,0 +1,92 @@
+[
+    {
+        "id": "WeND4HmoTB4A",
+        "name": "You",
+        "gender": "Male",
+        "spouse": "gqXh7ckAxNSn",
+        "children": [
+            "ZnHWvPRhTeh7",
+            "XLKfZ35dEoa9",
+            "GQURRaLkWoS5"
+        ],
+        "x": "190",
+        "y": "150",
+        "level": "0"
+    },
+    {
+        "id": "C7nFAXFDv7ep",
+        "name": "Mom",
+        "gender": "Female",
+        "spouse": "ATTFosuowN77",
+        "children": [
+            "WeND4HmoTB4A",
+            "TyUfBc6ZeHXV"
+        ],
+        "x": "190",
+        "y": "-30",
+        "level": "-1"
+    },
+    {
+        "id": "ATTFosuowN77",
+        "name": "Dad",
+        "gender": "Male",
+        "spouse": "C7nFAXFDv7ep",
+        "children": [
+            "WeND4HmoTB4A",
+            "TyUfBc6ZeHXV"
+        ],
+        "x": "430",
+        "y": "-30",
+        "level": "-1"
+    },
+    {
+        "id": "gqXh7ckAxNSn",
+        "name": "Wife",
+        "gender": "Female",
+        "spouse": "WeND4HmoTB4A",
+        "children": [
+            "ZnHWvPRhTeh7",
+            "XLKfZ35dEoa9",
+            "GQURRaLkWoS5"
+        ],
+        "x": "430",
+        "y": "150",
+        "level": "0"
+    },
+    {
+        "id": "ZnHWvPRhTeh7",
+        "name": "Child1",
+        "gender": "Male",
+        "children": [],
+        "x": "190",
+        "y": "330",
+        "level": "1"
+    },
+    {
+        "id": "XLKfZ35dEoa9",
+        "name": "Child2",
+        "gender": "Other",
+        "children": [],
+        "x": "430",
+        "y": "330",
+        "level": "1"
+    },
+    {
+        "id": "GQURRaLkWoS5",
+        "name": "Child3",
+        "gender": "Male",
+        "children": [],
+        "x": "670",
+        "y": "330",
+        "level": "1"
+    },
+    {
+        "id": "TyUfBc6ZeHXV",
+        "name": "Sibling",
+        "gender": "Male",
+        "children": [],
+        "x": "670",
+        "y": "150",
+        "level": "0"
+    }
+]
